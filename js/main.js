@@ -101,7 +101,7 @@
 
 
 const portfolioContainer = document.querySelector(".projects");
-const totalImages = 35;
+const totalImages = 34;
 const imagesPerLoad = 6;
 const loadMoreButton = document.getElementById('load-more');
 
